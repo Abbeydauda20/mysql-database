@@ -1,5 +1,3 @@
-# mysql-database
-
 Steps:
 1. # configured aws provider with proper credentials
 2. # use data source to get all avalablility zones in region
